@@ -3,10 +3,6 @@
 ## Goal
 It's would be better to have a place to put your frequently used symbols into a place for using in your working domain.
 
-## Preparation
-1. goto https://github.com/PanderMusubi/inkscape-open-symbols and folk the repo in github, i.e. for me: https://github.com/metasong/SvgSymbols
-1. we can clone the repo into your preferred directory: `cd M:\Resources;git clone https://github.com/metasong/SvgSymbols` SvgSymbols -depth 1
-1. On Windows Inkscape stores symbols in $env:AppData/inkscape/symbols directory. $env:AppData normally is on system disk, i.e. c:. We can change it to the above directory with the pwsh command: `new-item -ItemType Junction -Target M:\Resources\SvgLib $env:AppData/inkscape/symbols`
 
 ## How to create your symbols
 1. open Inkscape and create a new Inkscape document.
@@ -30,5 +26,3 @@ It's would be better to have a place to put your frequently used symbols into a 
 1. select all objects on document and delete them.
 1. save your file as 'plain svg'
 
-## templates
-`new-item -ItemType Junction -Target M:\Resources\SvgLib\templates $env:AppData/inkscape/templates`
