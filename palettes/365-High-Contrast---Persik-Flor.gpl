@@ -1,0 +1,46 @@
+GIMP Palette
+Name: 36+5 High Contrast - Persik Flor
+Columns: 3
+#
+  0   0   0	Z Black
+ 64  64  64	Z Onyx
+128 128 128	Z Grey
+191 191 191	Z Silver
+255 255 255	Z White
+255 255 255	Z White
+255  64  64	A Red
+255 128 128	A Coral
+255 192 192	A Ballet
+255 159  64	C Orange
+255 191 128	C Apricot
+255 223 192	C Sand
+255 255  64	E Yellow
+255 255 128	E Canary
+255 255 192	E Conditioner
+160 255  64	G Pistachio
+191 255 128	G Inchworm
+224 255 192	G Nyanza
+ 64 255  64	I Green
+128 255 128	I Mint
+192 255 192	I Menthol
+ 64 255 160	K Malachite
+128 255 191	K Jade
+192 255 223	K Salvia
+ 64 255 255	M Cyan
+128 255 255	M Sea
+192 255 255	M Water
+ 64 160 255	O Azure
+128 191 255	O Jodhpur
+192 223 255	O Periwinkle
+ 64  64 255	Q Blue
+128 128 255	Q Blueberry
+192 192 255	Q Soap
+160  64 255	S Violet
+192 128 255	S Heliotrope
+224 192 255	S Mauve
+255  64 255	U Magenta
+255 128 255	U Lavatera
+255 192 255	U Shampoo
+255  64 159	W Rose
+255 128 191	W Azalea
+255 192 223	W Candy
