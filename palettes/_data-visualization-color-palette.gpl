@@ -1,0 +1,107 @@
+GIMP Palette
+Name:_data-visualization-color-palette
+Columns:9
+
+#Retro Metro
+234 85 69	#ea5545 Retro Metro
+244 106 155	#f46a9b Retro Metro
+239 155 32	#ef9b20 Retro Metro
+237 191 51	#edbf33 Retro Metro
+237 225 91	#ede15b Retro Metro
+189 207 50	#bdcf32 Retro Metro
+135 188 69	#87bc45 Retro Metro
+39 174 239	#27aeef Retro Metro
+179 61 198	#b33dc6 Retro Metro
+55 55 72	#373748 separator
+
+#Dutch Field
+55 55 72	#373748 separator
+230 0 73	#e60049 Dutch Field
+11 180 255	#0bb4ff Dutch Field
+80 233 145	#50e991 Dutch Field
+230 216 0	#e6d800 Dutch Field
+155 25 245	#9b19f5 Dutch Field
+255 163 0	#ffa300 Dutch Field
+220 10 180	#dc0ab4 Dutch Field
+179 212 255	#b3d4ff Dutch Field
+0 191 160	#00bfa0 Dutch Field
+55 55 72	#373748 separator
+55 55 72	#373748 separator
+
+#River Nights
+179 0 0	#b30000 River Nights
+124 17 88	#7c1158 River Nights
+68 33 175	#4421af River Nights
+26 83 255	#1a53ff River Nights
+13 136 230	#0d88e6 River Nights
+0 183 199	#00b7c7 River Nights
+90 212 90	#5ad45a River Nights
+139 224 78	#8be04e River Nights
+235 220 120	#ebdc78 River Nights
+55 55 72	#373748 separator
+
+#Spring Pastels
+55 55 72	#373748 separator
+253 127 111	#fd7f6f Spring Pastels
+126 176 213	#7eb0d5 Spring Pastels
+178 224 97	#b2e061 Spring Pastels
+189 126 190	#bd7ebe Spring Pastels
+255 181 90	#ffb55a Spring Pastels
+255 238 101	#ffee65 Spring Pastels
+190 185 219	#beb9db Spring Pastels
+253 204 229	#fdcce5 Spring Pastels
+139 211 199	#8bd3c7 Spring Pastels
+55 55 72	#373748 separator
+
+#Blue to Yellow
+55 55 72	#373748 separator
+17 95 154	#115f9a Blue to Yellow
+25 132 197	#1984c5 Blue to Yellow
+34 167 240	#22a7f0 Blue to Yellow
+72 181 196	#48b5c4 Blue to Yellow
+118 198 143	#76c68f Blue to Yellow
+166 215 91	#a6d75b Blue to Yellow
+201 229 47	#c9e52f Blue to Yellow
+208 238 17	#d0ee11 Blue to Yellow
+244 241 0	#f4f100 Blue to Yellow
+55 55 72	#373748 separator
+55 55 72	#373748 separator
+
+#Grey to Red
+215 225 238	#d7e1ee Grey to Red
+203 214 228	#cbd6e4 Grey to Red
+191 203 219	#bfcbdb Grey to Red
+179 191 209	#b3bfd1 Grey to Red
+164 162 168	#a4a2a8 Grey to Red
+223 136 121	#df8879 Grey to Red
+200 101 88	#c86558 Grey to Red
+176 66 56	#b04238 Grey to Red
+153 31 23	#991f17 Grey to Red
+55 55 72	#373748 separator
+55 55 72	#373748 separator
+
+#Black to Pink
+46 43 40	#2e2b28 Black to Pink
+59 55 52	#3b3734 Black to Pink
+71 68 64	#474440 Black to Pink
+84 80 76	#54504c Black to Pink
+107 80 107	#6b506b Black to Pink
+171 61 169	#ab3da9 Black to Pink
+222 37 218	#de25da Black to Pink
+235 68 232	#eb44e8 Black to Pink
+255 128 255	#ff80ff Black to Pink
+55 55 72	#373748 separator
+
+#Blues
+55 55 72	#373748 separator
+0 0 179	#0000b3 Blues
+0 16 217	#0010d9 Blues
+0 32 255	#0020ff Blues
+0 64 255	#0040ff Blues
+0 96 255	#0060ff Blues
+0 128 255	#0080ff Blues
+0 159 255	#009fff Blues
+0 191 255	#00bfff Blues
+0 255 255	#00ffff Blues
+55 55 72	#373748 separator
+55 55 72	#373748 separator
