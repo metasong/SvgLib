@@ -1,5 +1,6 @@
-// node pallet-generator
+// modify below line to import different color palette data
 import { colorPalette } from './palette-data/data-visualization.mjs';
+
 import fs from 'fs/promises';
 import { EOL } from 'os';
 
