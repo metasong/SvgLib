@@ -1,9 +1,7 @@
-https://wpdatatables.com/data-visualization-color-palette/
 
- default palette: C:\Program Files\Inkscape\share\inkscape\palettes
+> default palettes are stores here: C:\Program Files\Inkscape\share\inkscape\palettes
 
- ## .gpl (GIMP palette) format
-
+## .gpl (GIMP palette) format
  https://stackoverflow.com/questions/60916860/gimp-palette-file-gpl-format-syntax#answer-60920172
 
 1. Columns is an indication for display in the palette editor
