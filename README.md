@@ -6,7 +6,7 @@ It's would be better to have a place to put your frequently used SVG symbols/tem
 ## Setup
 > to use the symbols, templates and colorPalettes in inkscape
 
-> note: we can also store symbols in templates, they will appear as the template's symbols and also in the symbols panel. because we map the 'templates' folder as a subfolder of the '$env:AppData/inkscape/symbols' folder.
+> note: we can also store symbols in templates, they will appear as the template's own symbols and also in the symbols panel. because we map the 'templates' folder as a subfolder of the '$env:AppData/inkscape/symbols' folder.
 
 1. Goto https://github.com/metasong/SvgLib and folk to create your own repo in github: i.e. https://github.com/metaseed/SvgLib
 1. Clone your repo locally: `cd M:\Resources; git clone https://github.com/metaseed/SvgLib` -depth 1
